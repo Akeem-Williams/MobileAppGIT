@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileAppGIT.Android", "Mob
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileAppGIT.iOS", "MobileAppGIT.iOS\MobileAppGIT.iOS.csproj", "{144C4B92-5EF5-4A56-8590-2D450AF5FCE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MobileAppGIT", "MobileAppGIT\MobileAppGIT.csproj", "{3D3B9F50-B024-4D1F-BABE-59613CAE08B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MobileAppGIT", "MobileAppGIT\MobileAppGIT.csproj", "{3D3B9F50-B024-4D1F-BABE-59613CAE08B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6F720C65-3CA0-4CFD-B61A-614E43E583B3}"
+	ProjectSection(SolutionItems) = preProject
+		GITBABY.txt = GITBABY.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
